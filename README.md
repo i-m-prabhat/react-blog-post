@@ -35,4 +35,9 @@ The App component is the root component of the application and it uses Route com
 
 The JSON server is used to store and retrieve the blogs. The application uses axios to send HTTP requests to the JSON server to add and retrieve blogs.
 
+
+### How to start the json server
+
+Start the JSON server by running the following command in your terminal: ``json-server db.json --port=5000``
+
 ### This Blog post project is created by Prabhat

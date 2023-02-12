@@ -2,6 +2,18 @@
 
 This is a React blog page that takes input as title and description and stores the title in a slug and stores it in a JSON-server with the current date, and shows the blog's title and date in another component. When you click on the blog title, it shows the full blog, and the title slug shows in the URL
 
+## <a href="https://reactblogbyp.netlify.app/">Deployment</a>
+
+## Snapshots 
+![Screenshot (244)](https://user-images.githubusercontent.com/117756490/218303719-1fe220c2-7302-4447-989f-ecceed879925.png)
+![Screenshot (245)](https://user-images.githubusercontent.com/117756490/218303722-9f4dab1c-ba01-432e-bfea-c491705a9d41.png)
+![Screenshot (246)](https://user-images.githubusercontent.com/117756490/218303726-a9b8bf2a-0895-4336-bc92-aabb6a15b209.jpg)
+![Screenshot (247)](https://user-images.githubusercontent.com/117756490/218303728-b315c003-d8c2-4824-a386-58322b2bfd7e.jpg)
+![Screenshot (247)](https://user-images.githubusercontent.com/117756490/218303729-3d9ea30a-312a-4529-b1e1-ccebdf3f2023.png)
+![Screenshot (248)](https://user-images.githubusercontent.com/117756490/218303730-8c064e0e-171c-401b-8bbc-2b9213b8cf31.png)
+
+
+
 ## Code Explanation
 
 The above code is a React application that creates and displays blogs. The application has two components: BlogPage and BlogDetail.
